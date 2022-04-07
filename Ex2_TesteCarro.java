@@ -13,7 +13,7 @@ public class Ex2_TesteCarro {
         Ex3_Carro carro2 = new Ex3_Carro(placa2, piloto2);
 
         carro1.getPlaca();
-        carro1.getPiloto();
+        carro1.getPiloto(); 
         carro1.acelerar();
         carro1.frear();
 

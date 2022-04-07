@@ -1,7 +1,7 @@
 import static javax.swing.JOptionPane.showInputDialog;
 public class Ex4_TesteCarro {
     public static void main(String[] args) {
-        String placa1, piloto1, placa2, piloto2;
+        String placa1, piloto1, placa2, piloto2; 
 
         placa1 = showInputDialog("Declare a placa");
         piloto1 = showInputDialog("Declare o seu nome");

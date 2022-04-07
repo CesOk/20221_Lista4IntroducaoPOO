@@ -2,7 +2,7 @@ public class Ex3_Carro {
     private String placa, piloto;
 
     public Ex3_Carro(String placa, String piloto){
-        this.placa = placa;
+        this.placa = placa; 
         this.piloto = piloto;
     }
 
